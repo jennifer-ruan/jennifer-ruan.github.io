@@ -1,0 +1,102 @@
+{
+    "name": "Jenn",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Jenn Ruan - a",
+    "headerTaglineThree": "new grad programmer",
+    "headerTaglineFour": " based in Toronto, Canada",
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "enableEdit": false,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/jennifer-ruan"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/jennifer-ruan/"
+      },
+      { "id": "3", "title": "Email", "link": "mailto:jennifer.y.ruan@gmail.com" }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Financial Portfolio App",
+        "description": "Angular / Typescript / Java",
+        "imageSrc": "https://gcdnb.pbrd.co/images/WFlF0liJKhnG.png?o=1",
+        "url": "#"
+      },
+      {
+        "id": "2",
+        "title": "Get Down Mr President",
+        "description": "C# / Unity",
+        "imageSrc": "https://media.githubusercontent.com/media/jennifer-ruan/mr-president/main/Assets/Materials/New%20Menu/mainMenu_02HL.png",
+        "url": "https://kimber1y.itch.io/get-down-mr-president"
+      },
+      {
+        "id": "3",
+        "title": "Shooting Things in Space",
+        "description": "C++",
+        "imageSrc": "https://gcdnb.pbrd.co/images/RzmYKPS2xUHU.png?o=1",
+        "url": "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan"
+      }
+    ],
+    "resume": {
+      "tagline": "",
+      "description": "Newly graduated programmer passionate about designing and developing worthwhile experiences for people, whether that be through video games or web apps.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "July 2023 - Present",
+          "type": "Citi",
+          "position": "Junior UI Developer",
+          "bullets": [
+            "Collaborated on developing a financial app tailored for FX trading.",
+            "Leveraged Angular to craft dynamic, responsive UIs.",
+            "Engaged in code review processes and pair programming sessions."
+          ]
+        },
+        {
+          "id": "2",
+          "dates": "May 2021 - August 2022",
+          "type": "Winterlight Labs",
+          "position": "Full Stack Developer Intern",
+          "bullets": [
+            "Developed numerous full-stack features with React and NodeJs.",
+            "Applied SQL and JavaScript to execute data analysis.",
+            "Developed and integrated a RESTful API with AWS.",
+            "Converted mockups into data visualization features."
+        ]
+        },
+        {
+            "id": "3",
+            "dates": "Aug 2020 - Feb 2021",
+            "type": "Special Olympics Ontario",
+            "position": "Frontend Developer Intern",
+            "bullets": [
+                "Developed interactive client-facing features using Vue and Javascript.",
+                "Overhauled features using CSS and HTML for mobile compatibility.",
+                "Conducted tests to ensure accessibility-first design and improve website performance."
+        ]
+          }
+      ],
+      "education": [{
+        "universityName": "B.Sc Computer Science",
+        "universityDate": "University of Toronto",
+        "universityPara": "Learned lots about programming, how to communicate with people, & how to get things done."
+      },
+      {
+        "universityName": "UX Design Certificate",
+        "universityDate": "Google Certificates",
+        "universityPara": ""
+    }
+],
+      "languages": ["Javascript", "HTML5 & CSS", "C++", "C#", "Python"],
+      "frameworks": ["React", "Angular", "Vue", "Typescript", "NodeJs"],
+      "others": ["Unreal Engine", "Unity", "Figma", "AWS"]
+    }
+  }
+  
