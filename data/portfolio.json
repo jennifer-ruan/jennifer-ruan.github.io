@@ -4,19 +4,19 @@
     "headerTaglineTwo": "I'm Jenn Ruan - a",
     "headerTaglineThree": "new grad programmer",
     "headerTaglineFour": " based in Toronto, Canada",
-    "showBlog": false,
+    "showBlog": true,
     "darkMode": true,
     "showResume": true,
     "enableEdit": false,
     "socials": [
       {
         "id": "1",
-        "title": "Github",
+        "title": "github",
         "link": "https://github.com/jennifer-ruan"
       },
       {
         "id": "2",
-        "title": "LinkedIn",
+        "title": "linkedin",
         "link": "https://www.linkedin.com/in/jennifer-ruan/"
       },
       {
@@ -24,7 +24,7 @@
         "title": "itch.io",
         "link": "https://jennifer-ruan.itch.io/"
       },
-      { "id": "4", "title": "Email", "link": "mailto:jennifer.y.ruan@gmail.com" }
+      { "id": "4", "title": "contact", "link": "mailto:jennifer.y.ruan@gmail.com" }
     ],
     "projects": [
       {

@@ -69,10 +69,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             >
               {!isBlog ? (
                 <div className="grid grid-cols-1">
-                  <Button onClick={handleWorkScroll}>Work</Button>
-                  <Button onClick={handleAboutScroll}>About</Button>
+                  <Button onClick={handleWorkScroll}>work</Button>
+                  {/* <Button onClick={handleAboutScroll}>About</Button> */}
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() => router.push("/photos")}>photos</Button>
                   )}
                   {showResume && (
                     <Button
@@ -80,15 +80,15 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                         window.open("mailto:jennifer.y.ruan@gmail.com")
                       }
                     >
-                      Resume
+                      resume
                     </Button>
                   )}
-
+{/* 
                   <Button
                     onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}
                   >
                     Contact
-                  </Button>
+                  </Button> */}
                 </div>
               ) : (
                 <div className="grid grid-cols-1">
@@ -96,7 +96,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     Home
                   </Button>
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() => router.push("/photos")}>Photos</Button>
                   )}
                   {showResume && (
                     <Button
@@ -106,12 +106,12 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                       Resume
                     </Button>
                   )}
-
+{/* 
                   <Button
                     onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}
                   >
                     Contact
-                  </Button>
+                  </Button> */}
                 </div>
               )}
             </Popover.Panel>
@@ -131,23 +131,23 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         </h1>
         {!isBlog ? (
           <div className="flex">
-            <Button onClick={handleWorkScroll}>Work</Button>
-            <Button onClick={handleAboutScroll}>About</Button>
+            <Button onClick={handleWorkScroll}>work</Button>
+            {/* <Button onClick={handleAboutScroll}>About</Button> */}
             {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
+              <Button onClick={() => router.push("/photos")}>photos</Button>
             )}
             {showResume && (
               <Button
                 onClick={() => router.push("/resume")}
                 classes="first:ml-1"
               >
-                Resume
+                resume
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}>
+            {/* <Button onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}>
               Contact
-            </Button>
+            </Button> */}
             {mounted && theme && data.darkMode && (
               <Button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
@@ -161,10 +161,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           </div>
         ) : (
           <div className="flex">
-            <Button onClick={() => router.push("/")}>Home</Button>
-            {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
-            )}
+            <Button onClick={() => router.push("/")}>home</Button>
+            {/* {showBlog && (
+              <Button onClick={() => router.push("/photos")}>Photos</Button>
+            )} */}
             {/* {showResume && (
               <Button
                 onClick={() => router.push("/resume")}
@@ -174,9 +174,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )} */}
 
-            <Button onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}>
-              Contact
-            </Button>
+            {/* <Button onClick={() => window.open("mailto:jennifer.y.ruan@gmail.com")}>
+              contact
+            </Button> */}
 
             {mounted && theme && data.darkMode && (
               <Button
