@@ -19,29 +19,41 @@
         "title": "LinkedIn",
         "link": "https://www.linkedin.com/in/jennifer-ruan/"
       },
-      { "id": "3", "title": "Email", "link": "mailto:jennifer.y.ruan@gmail.com" }
+      {
+        "id": "3",
+        "title": "itch.io",
+        "link": "https://jennifer-ruan.itch.io/"
+      },
+      { "id": "4", "title": "Email", "link": "mailto:jennifer.y.ruan@gmail.com" }
     ],
     "projects": [
       {
         "id": "1",
-        "title": "Financial Portfolio App",
-        "description": "Angular / Typescript / Java",
-        "imageSrc": "https://gcdnb.pbrd.co/images/WFlF0liJKhnG.png?o=1",
-        "url": "#"
+        "title": "Boo & Brew Cafe",
+        "description": "Cozy cafe sim made with Godot.",
+        "imageSrc": "https://gcdnb.pbrd.co/images/IYbg1rsF1DXP.png",
+        "url": "https://labibz.itch.io/boo-brew-cafe"
       },
       {
         "id": "2",
         "title": "Get Down Mr President",
-        "description": "C# / Unity",
+        "description": "Goofy 3D platformer made with C# and Unity.",
         "imageSrc": "https://media.githubusercontent.com/media/jennifer-ruan/mr-president/main/Assets/Materials/New%20Menu/mainMenu_02HL.png",
         "url": "https://kimber1y.itch.io/get-down-mr-president"
       },
       {
         "id": "3",
         "title": "Shooting Things in Space",
-        "description": "C++",
+        "description": "Small 2D shooter made with C++.",
         "imageSrc": "https://gcdnb.pbrd.co/images/RzmYKPS2xUHU.png?o=1",
         "url": "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan"
+      },
+      {
+        "id": "4",
+        "title": "Financial Portfolio App",
+        "description": "Financial portfolio manager made in Angular.",
+        "imageSrc": "https://gcdnb.pbrd.co/images/WFlF0liJKhnG.png?o=1",
+        "url": "#"
       }
     ],
     "resume": {
