@@ -100,7 +100,7 @@ const Blog = ({ posts }) => {
       <>
         {data.showCursor && <Cursor />}
         <Head>
-          <title>Blog</title>
+          <title>my photos</title>
         </Head>
         <link rel="stylesheet" href="styles.css"/>
         <div
