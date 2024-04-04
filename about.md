@@ -11,25 +11,16 @@ When I'm not coding, I can be found reading (currently <b>Genghis Khan and the M
 <h2>Experience</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Software Analyst, UI @ Citigroup</li>
+	<li>Software Developer Intern, Full Stack @ Winterlight Labs</li>
+	<li>Web Developer Intern, Full Stack @ Special Olympics Ontario</li>
 </ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>JavaScript, TypeScript, HTML, CSS, SQL, Python, Java, C++, C#, C</li>
+	<li>Angular, ReactJS, VueJS</li>
+	<li>AWS, Figma, SonarQube, Jenkins, Openshift</li>
+	<li>Git, Bitbucket</li>
 </ul>
