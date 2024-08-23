@@ -12,14 +12,14 @@ I'm currently split between making a <a href="https://github.com/jennifer-ruan/c
 
 <ul>
 	<li>Software Developer @ Citi</li>
-	<li>Software Developer Intern, Full Stack @ Winterlight Labs</li>
-	<li>Web Developer Intern, Full Stack @ Special Olympics Ontario</li>
+	<li>Software Developer Intern @ Winterlight Labs</li>
+	<li>Web Developer Intern @ Special Olympics Ontario</li>
 </ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>JavaScript, TypeScript, HTML, CSS, SQL, Python, Java, C++, C#, C</li>
+	<li>JavaScript, TypeScript, HTML, CSS, SQL, Python, Java, C++</li>
 	<li>Angular, ReactJS, VueJS</li>
 	<li>AWS Cloud, Figma, TeamCity</li>
 	<li>Git, Bitbucket</li>
